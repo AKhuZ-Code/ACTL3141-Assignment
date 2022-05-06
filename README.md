@@ -1,7 +1,8 @@
 # ACTL3141-Assignment
 Code, visualisations and report for Jason Khu's ACTL3141 Assignment (2022 T1) - High Distinction Grade (90)
 
-Files included in this repository:
+
+<b>Files included in this repository:</b>
 
 • 'CovidHospDataBrasil.csv': The dataset which was analysed for this assignment - data from a hypothetical international insurance company, for their Brazilian private health insurance portfolio
 
